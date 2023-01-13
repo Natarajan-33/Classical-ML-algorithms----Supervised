@@ -1,1 +1,2 @@
-Necessary Data can be downloaded from [here](https://drive.google.com/drive/folders/1ZEB5NSTZWOnnNFoB6sBVYhGVEnvmicV1?usp=share_link)
+- In this project, few of the preprocessing part is done by appliedaicourse team members and my contribution doing some other preprocessing like adding svd_dot and Preferential Attachment features and then with all the preprocessed data tune hyperparameters for Xgboost model with that featurized data to find best hyperparameter which can give best performance metric values for the given dataset.
+- Necessary Data can be downloaded from [here](https://drive.google.com/drive/folders/1ZEB5NSTZWOnnNFoB6sBVYhGVEnvmicV1?usp=share_link)
